@@ -5,8 +5,8 @@ MATLAB source code is under /MATLABfiles folder. In addition, a MATLAB app is av
 
 Have fun!
 
-
+<img width="1400" alt="firstMeaningfulGame" src="https://user-images.githubusercontent.com/77360680/118495473-e21d9b80-b72b-11eb-9641-79c894c0303c.png">
 
 ![a4paper](https://user-images.githubusercontent.com/77360680/118495460-dfbb4180-b72b-11eb-9a91-bfcee3dedb5f.png)
-<img width="1400" alt="firstMeaningfulGame" src="https://user-images.githubusercontent.com/77360680/118495473-e21d9b80-b72b-11eb-9641-79c894c0303c.png">
+
 <img width="1209" alt="Screen Shot 2020-09-04 at 14 23 35" src="https://user-images.githubusercontent.com/77360680/118495699-1e50fc00-b72c-11eb-8d43-626f9090fb81.png">
